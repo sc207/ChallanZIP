@@ -76,3 +76,8 @@ This gives the products the maximum space while still handling:
 * A5 and A4 printing
 
 The biggest mistake would be letting the company section become 4–5 lines. Keep company info compressed and give that space to the products table.
+
+┌───────────────────────────────────────────────────────────────┐
+│ Total Qty : PIECE : 700        Grand Total : ₹ 42,000.00      │
+└───────────────────────────────────────────────────────────────┘
+│ NOTES / REMARKS                                              │
